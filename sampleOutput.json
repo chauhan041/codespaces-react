@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Kristen Holmes, Tierney Sneed",
+      "title": "Exclusive: Communications between Stormy Daniels and Trump attorney turned over to Manhattan DA - CNN",
+      "description": "Communications between adult-film star Stormy Daniels and an attorney who is now representing former President Donald Trump have been turned over to the Manhattan district attorney's office, Daniels' lawyer told CNN.",
+      "url": "https://www.cnn.com/2023/03/21/politics/joe-tacopina-trump-lawyer-stormy-daniels/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230321190855-joe-tacopina-032123.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-03-22T01:41:00Z",
+      "content": "Communications between adult-film star Stormy Daniels and an attorney who is now representing former President Donald Trump have been turned over to the Manhattan district attorneys office, Daniels l… [+5610 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Ron DeSantis sharpens attacks on Trump's 'daily drama' - BBC",
+      "description": "In a TV interview, the Florida Republican takes shots at his possible rival's leadership style.",
+      "url": "https://www.bbc.com/news/world-us-canada-65034653",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B1AF/production/_129078454_gettyimages-1472688974.jpg",
+      "publishedAt": "2023-03-22T01:40:42Z",
+      "content": "Media caption, Watch Ron DeSantis on Monday: 'I can't speak to porn star payments'\r\nFlorida Governor Ron DeSantis has reportedly taken a swipe at Donald Trump's \"daily drama\", sharpening his attacks … [+2479 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Randi Kaye, Christina Maxouris",
+      "title": "Stephen Smith's case is now being investigated as a homicide, South Carolina law enforcement says - CNN",
+      "description": "The South Carolina Law Enforcement Division is investigating the death of Stephen Smith, a 19-year-old nursing student whose body was found in the middle of a South Carolina road in 2015, as a homicide, an agency spokesperson told CNN.",
+      "url": "https://www.cnn.com/2023/03/21/us/stephen-smith-death-homicide-south-carolina/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230320172903-04-stephen-smith-cold-case.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-03-22T01:15:00Z",
+      "content": "The South Carolina Law Enforcement Division is investigating the death of Stephen Smith, a 19-year-old nursing student whose body was found in the middle of a South Carolina road in 2015, as a homici… [+2835 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Aislinn Murphy",
+      "title": "Nike sees year-over-year increase in revenue, drop in net income for third quarter - Fox Business",
+      "description": "Nike’s results for the fiscal 2023 third quarter came out Tuesday afternoon and showed revenue rising and net income dipping compared to the same period last year.",
+      "url": "https://www.foxbusiness.com/markets/nike-sees-year-over-year-increase-revenue-drop-net-income-third-quarter",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/05/0/0/Nike-Swoosh.jpg?ve=1&tl=1",
+      "publishedAt": "2023-03-22T00:16:36Z",
+      "content": "Nike released financial results Tuesday from the third quarter of fiscal 2023 that showed revenue rising and net income dropping.\r\nThe athletic footwear and apparel company’s third-quarter revenues s… [+2686 chars]"
+    }
+  ]
+}
